@@ -1,13 +1,15 @@
-﻿using System;
+﻿using InserirAtualizarDados.Models;
+using System;
+using System.Linq;
 
 namespace InserirAtualizarDados.Repositories
 {
     public interface IBaseRepository : IDisposable
     {
-        void Inserir(object Entity);
+        void Inserir(Entity Entity);
 
-        void Alterar(Guid Id);
+        void Alterar(Guid Id, Entity entity);
 
-        object Selecionar();
+        IQueryable<Entity> Selecionar();
     }
 }
