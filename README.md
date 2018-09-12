@@ -12,3 +12,7 @@ em cascata.
   - Dapper para acesso a dados.<br/>
   - Microsoft.Extensions.Configuration(.Json) para ler o arquivo json e encontrar a string de conexão com o banco de dados.<br/>
   - Unity para configurar e resolver as dependências.<br/>
+
+## Referências
+* [Dapper](http://dapper-tutorial.net/dapper) - Documentação do Dapper
+* [Inserts e Updates](https://stackoverflow.com/questions/5957774/performing-inserts-and-updates-with-dapper) - Como fazer inserts no banco de dados usando Dapper.
