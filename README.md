@@ -6,7 +6,7 @@ App WinForms usando Dapper para inserir e atualizar dados
 em cascata.
 
 ## Artigo de referência
- * [Medium](https://github.com/erikthiago/InserirAtualizarDados) - Artigo que explica em detalhes o código do projeto
+ * [Medium](https://medium.com/@erikthiago/insert-com-dapper-e-winforms-7c466a8ece32) - Artigo que explica em detalhes o código do projeto
    
   ## Frameworks utilizados:<br/>
   - Dapper para acesso a dados.<br/>
