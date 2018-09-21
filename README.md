@@ -16,3 +16,6 @@ em cascata.
 ## Referências
 * [Dapper](http://dapper-tutorial.net/dapper) - Documentação do Dapper
 * [Inserts e Updates](https://stackoverflow.com/questions/5957774/performing-inserts-and-updates-with-dapper) - Como fazer inserts no banco de dados usando Dapper.
+
+## Artigo sobre update
+ * [Medium](https://medium.com/@erikthiago/insert-com-dapper-e-winforms-7c466a8ece32) - Artigo que explica sobre update no banco
